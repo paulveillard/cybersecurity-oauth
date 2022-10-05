@@ -6,6 +6,8 @@ and share information.
 #### But what exactly is it? In a nutshell…
 > OAuth 2.0 is a protocol that allows distinct parties to share information and resources in a secure and reliable manner.
 
+## Tables of Contents
+
 ## Cloud solutions
 
 ### Amazon Web Services (AWS)
