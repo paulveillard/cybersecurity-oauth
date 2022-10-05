@@ -10,10 +10,9 @@ and share information.
 
 - [Cloud Solutions](#cloud-solutions)
    - [Amazon Web Services](#amazon-web-services)
-   - [OAuth](#oauth)
-   - [SAML](#saml)
-   - [Two-factor authentication](#two-factor-authentication)
-   - [Passwordless authentication](#passwordless-authentication)
+   - [Googe Cloud Platform](#google-cloud-services)
+   - [Microsoft Azure](#microsoft-azure)
+ 
 
 - [Authentication Development](#authentication-development)
 	- [C#](#authN-cSharp)
