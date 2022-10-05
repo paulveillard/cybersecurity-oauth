@@ -1,4 +1,4 @@
-# Oauth 2.0
+# OAuth 2.0
 
 - As an application developer, you may have heard the term OAuth 2.0 thrown around a lot. OAuth 2.0 has gained wide adoption by web service and software companies around the world, and is integral to the way these companies interact
 and share information. 
