@@ -15,7 +15,7 @@ and share information.
 
 - Developers and architects simply can’t build modern applications without running into issues of authorization and authentication.
 
-[OAuth 2.0] (https://www.couchbase.com/blog/oauth-2-oidc-fundamentals-authentication-authorization/) is an industry standard for “delegated authorization” which is the ability to provide an application or client access to data or features offered by another app or service. OAuth 2.0 focuses on authorization and is not prescriptive about authentication. OpenID Connect (OIDC) adds a standards-based authentication layer on top of OAuth 2.0.
+[OAuth 2.0](https://www.couchbase.com/blog/oauth-2-oidc-fundamentals-authentication-authorization/)-is an industry standard for “delegated authorization” which is the ability to provide an application or client access to data or features offered by another app or service. OAuth 2.0 focuses on authorization and is not prescriptive about authentication. OpenID Connect (OIDC) adds a standards-based authentication layer on top of OAuth 2.0.
 
 https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg
 
