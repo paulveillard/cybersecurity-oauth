@@ -13,11 +13,10 @@ and share information.
    - [Googe Cloud Platform (GCP)](#google-cloud-platform-gcp)
    - [Microsoft Azure](#microsoft-azure)
  
-
-- [Authentication Development](#authentication-development)
-	- [C#](#authN-cSharp)
-	- [Golang](#authN-golang)
-	- [Java](#authN-java)
+- [Authentication](#authentication)
+	- [SSO#](#sso)
+	- [OAuth](#oauth)
+	- [SAML](#saml)
 	- [Node.js](#authN-node)
 	- [Python](#authN-python)
 	- [Ruby](#authN-ruby)
@@ -132,7 +131,7 @@ and share information.
 * [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
 * [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 
-#### SAML
+### SAML
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
 * [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
 * [SAMLTest](https://samltest.id/) SAML Testing service
