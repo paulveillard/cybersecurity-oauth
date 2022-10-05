@@ -1,1 +1,1 @@
-# cybersecurity-oauth
+# Oauth
