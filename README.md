@@ -27,11 +27,14 @@ and share information.
  
 - [Authentication](#authentication)
 	- [SSO#](#sso)
-	- [OAuth](#oauth)
 	- [SAML](#saml)
 	- [Node.js](#authN-node)
 	- [Python](#authN-python)
 	- [Ruby](#authN-ruby)
+
+- [Authorization](#authorization)
+	- [OAuth](#oauth)
+	
 
 ## Cloud solutions
 
