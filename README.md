@@ -3,6 +3,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about OAuth 2.0 and OpenID Connect in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
+## Introduction
 - As an application developer, you may have heard the term OAuth 2.0 thrown around a lot. OAuth 2.0 has gained wide adoption by web service and software companies around the world, and is integral to the way these companies interact
 and share information. 
 
@@ -11,8 +12,15 @@ and share information.
 #### But what exactly is it? In a nutshell…
 > OAuth 2.0 is a protocol that allows distinct parties to share information and resources in a secure and reliable manner.
 
-## Tables of Contents
 
+- Developers and architects simply can’t build modern applications without running into issues of authorization and authentication.
+
+> OAuth 2.0 is an industry standard for “delegated authorization” which is the ability to provide an application or client access to data or features offered by another app or service. OAuth 2.0 focuses on authorization and is not prescriptive about authentication. OpenID Connect (OIDC) adds a standards-based authentication layer on top of OAuth 2.0.
+
+https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg
+
+## Tables of Contents
+- [Introduction](#introduction)
 - [Cloud Solutions](#cloud-solutions)
    - [Amazon Web Services (AWS)](#amazon-web-services-aws)
    - [Googe Cloud Platform (GCP)](#google-cloud-platform-gcp)
