@@ -8,6 +8,21 @@ and share information.
 
 ## Tables of Contents
 
+- [Cloud Solutions](#cloud-solutions)
+   - [Amazon Web Services](#amazon-web-services)
+   - [OAuth](#oauth)
+   - [SAML](#saml)
+   - [Two-factor authentication](#two-factor-authentication)
+   - [Passwordless authentication](#passwordless-authentication)
+
+- [Authentication Development](#authentication-development)
+	- [C#](#authN-cSharp)
+	- [Golang](#authN-golang)
+	- [Java](#authN-java)
+	- [Node.js](#authN-node)
+	- [Python](#authN-python)
+	- [Ruby](#authN-ruby)
+
 ## Cloud solutions
 
 ### Amazon Web Services (AWS)
