@@ -9,8 +9,8 @@ and share information.
 ## Tables of Contents
 
 - [Cloud Solutions](#cloud-solutions)
-   - [Amazon Web Services](#amazon-web-services)
-   - [Googe Cloud Platform](#google-cloud-services)
+   - [Amazon Web Services (AWS)](#amazon-web-services-aws)
+   - [Googe Cloud Platform (GCP)](#google-cloud-services-gcp)
    - [Microsoft Azure](#microsoft-azure)
  
 
