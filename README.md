@@ -51,17 +51,17 @@ and share information.
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 * [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
-#### OAuth
-### Site
+### OAuth
+#### Site
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
 * [OAuth.net by Okta](https://oauth.net/)
 * [OAuth.com by Okta](https://www.oauth.com/)
 * [OAuth Articles and Posts by Alex Bilbie](https://alexbilbie.com/tag/oauth/)
 * [OpenID Connect](https://openid.net/connect/)
 
-### Specification
+#### Specification
 
-#### Formal
+##### Formal
 * [The OAuth 2.0 Authorization Framework (RFC 6749)](https://tools.ietf.org/html/rfc6749)
 * [The OAuth 2.0 Authorization Framework: Bearer Token Usage (RFC 6750)](https://tools.ietf.org/html/rfc6750)
 * [OAuth 2.0 Threat Model and Security Considerations (RFC 6819)](https://tools.ietf.org/html/rfc6819)
@@ -89,7 +89,7 @@ and share information.
 * [JSON Web Token Best Current Practices (RFC 8725)](https://tools.ietf.org/html/rfc8725)
 * [The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request(JAR) (RFC 9101)](https://datatracker.ietf.org/doc/html/rfc9101)
 
-#### Draft
+##### Draft
 * [OAuth 2.0 Incremental Authorization(draft-ietf-oauth-incremental-authz-04)](https://tools.ietf.org/html/draft-ietf-oauth-incremental-authz-04)
 * [OAuth 2.0 Token Binding (draft-ietf-oauth-token-binding-08)](https://tools.ietf.org/html/draft-ietf-oauth-token-binding-08)
 * [OAuth 2.0 Security Best Current Practice (draft-ietf-oauth-security-topics-18)](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-18)
