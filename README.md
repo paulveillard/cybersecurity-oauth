@@ -10,7 +10,7 @@ and share information.
 
 - [Cloud Solutions](#cloud-solutions)
    - [Amazon Web Services (AWS)](#amazon-web-services-aws)
-   - [Googe Cloud Platform (GCP)](#google-cloud-services-gcp)
+   - [Googe Cloud Platform (GCP)](#google-cloud-platform-gcp)
    - [Microsoft Azure](#microsoft-azure)
  
 
