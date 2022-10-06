@@ -21,10 +21,17 @@ In April 2007, this small group of developers created the OAuth discussion group
 
 ## What is the OAuth 2.0 framework
 
+As the brief history emphasise, the OAuth was created to address several issues and limitations pointed out with the authorization standards.
+
 ![Oauth-fundamentals-2](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-2.png)
 
+- OAuth 2.0 is the industry-standard protocol for authorization. The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service, either on behalf of a resource owner by orchestrating an approval interaction between the resource owner and the HTTP service, or by allowing the third-party application to obtain access on its own behalf.
 
-![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.png)
+
+
+OAuth 2.0 is an industry standard for delegated authorization, and there are a number of OAuth providers on the market.
+
+![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
 
 
 
