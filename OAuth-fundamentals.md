@@ -29,7 +29,7 @@ As the brief history emphasise, the OAuth was created to address several issues 
 
 
 
-OAuth 2.0 is an industry standard for delegated authorization, and there are a number of OAuth providers on the market.
+OAuth 2.0 is an industry standard for delegated authorization, and there are a number of [OAuth providers](https://en.wikipedia.org/wiki/List_of_OAuth_providers) on the market.
 
 ![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
 
