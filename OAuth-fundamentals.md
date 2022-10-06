@@ -12,6 +12,12 @@
 
 
 ## Brief History
+
+The story of OAuth starts in November 2006 when Ma.gnolia was about to integrate its services with Appel‘s Dashboard Widgets. At the time, this kind of integration would normally be done by asking the user for their credentials on the remote system and sending the credentials to the API. The issue was, that Ma.gnolia used Twitter’s distributed identity technology – OpenID – to facilitate login. Which they don’t use credentials for authorizing and authenticating users. So Ma.gnolia looked for a solution to allow their members with OpenIDs to authorize Dashboard Widgets to access their services. A few developers from Twitter together with a developer from Ma.gnolia concluded that there were no open standards for such API access delegation.
+
+In April 2007, this small group of developers created the OAuth discussion group, to write the draft proposal for an open protocol. In July 2007, the team drafted an initial specification. Eran Hammer joined the team and coordinated the OAuth contributions creating a more formal specification. At the beginning of December 2007, the OAuth core 1.0 final draft was released. Since then, it became a widely used open standard for access delegation.
+
+
 ## What is the OAuth 2.0 framework
 ## Common use cases of OAuth 2.0
 ## High-level description of the OAuth 2.0 mechanism
