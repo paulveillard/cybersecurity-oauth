@@ -20,6 +20,16 @@ In April 2007, this small group of developers created the OAuth discussion group
 
 
 ## What is the OAuth 2.0 framework
+
+![Oauth-fundamentals-2](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-2.png)
+
+
+![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.png)
+
+
+
+
+
 ## Common use cases of OAuth 2.0
 ## High-level description of the OAuth 2.0 mechanism
 ## References
