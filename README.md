@@ -65,6 +65,22 @@ and share information.
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 * [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
+### SAML
+* [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
+* [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
+* [SAMLTest](https://samltest.id/) SAML Testing service
+* [SAMLkit](https://samlkit.com/) Development/testing entity
+
+### Two-factor authentication
+* [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
+* [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
+
+## Passwordless authentication
+* [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
+* [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
+
+## Authorization
+
 ### OAuth
 #### Site
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
@@ -146,21 +162,7 @@ and share information.
 * [OpenID Connect](http://openid.net/connect/) - Identity layer on top of OAuth
 * [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Github or other providers.
 
-### SAML
-* [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
-* [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
-* [SAMLTest](https://samltest.id/) SAML Testing service
-* [SAMLkit](https://samlkit.com/) Development/testing entity
 
-### Two-factor authentication
-* [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
-* [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
-
-## Passwordless authentication
-* [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
-* [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
-
-## Authorization
 * [Role-based access control](https://en.wikipedia.org/wiki/Role-based_access_control) - wiki page about RBAC
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
 * [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
