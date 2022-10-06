@@ -33,6 +33,13 @@ OAuth 2.0 is an industry standard for delegated authorization, and there are a n
 
 ![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
 
+## The client-server authentication
+
+To understand these issues, let’s visit the traditional client-server authentication model by an example:
+
+> A bank developed a new online-banking website. The website designer thought that the UX can be improved by adding profile images. The developers said they don’t need to store the user image on their side. Instead, they can use users’ Facebook profile images. The access of the bank website to the Facebook profile image would work as follows:
+
+The online-banking requests access restricted to the Facebook server by authenticating with the server using the user’s credentials.
 
 
 
