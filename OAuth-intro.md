@@ -6,5 +6,7 @@ OAuth 2.0 is an industry standard for “delegated authorization” which is the
 
 ![oauth-openid](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-openid2.png)
 
+https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-openid3.JPG
+
 
 https://www.couchbase.com/blog/oauth-2-oidc-fundamentals-authentication-authorization/
