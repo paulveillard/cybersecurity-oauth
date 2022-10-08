@@ -9,8 +9,6 @@ and share information.
 
 ![concepts](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-concepts.jpeg)
 
-![Intro](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg)
-
 #### But what exactly is it? In a nutshell…
 > OAuth 2.0 is a protocol that allows distinct parties to share information and resources in a secure and reliable manner.
 
