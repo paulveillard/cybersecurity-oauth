@@ -63,5 +63,7 @@ Once a user integrated their Facebook profile image, they cannot revoke bank acc
 ## References
 
 The following content is based on several resources, among them are the official IETF documentation, the Wikipedia article, and OAuth 2 in Action, a book by Justin Richer and Antonio Sanso.
+- [Everybody is Dancing in the OAuth 2.0 Protocol(https://kessler.tech/security/oauth2-1/)
+
 
 
