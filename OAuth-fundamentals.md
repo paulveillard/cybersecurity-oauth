@@ -1,7 +1,8 @@
 # OAuth 2.0 Protocol Fundamentals
 
 - The OAuth 2.0 is a framework that allows third-party applications to obtain limited access to an HTTP service, either on behalf of a resource owner (basically a user) by orchestrating an approval interaction between the resource owner and the HTTP service (typically a content provider, such as a social network), or by allowing the third-party application to obtain access on its own behalf.
-![oauth-fundamentals](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/intro-first.png)
+
+![oauth-fundamentals](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauthexplained.png)
 
 
 ## Table of Contents
