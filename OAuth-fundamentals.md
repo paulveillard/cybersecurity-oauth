@@ -6,7 +6,7 @@
 
 ## Table of Contents
 - Brief History
-- What is the OAuth 2.0 framework
+- What is the OAuth 2.0 framework(#what-is-the-oauth-20-framework)
 - Common use cases of OAuth 2.0
 - High-level description of the OAuth 2.0 mechanism
 - References
