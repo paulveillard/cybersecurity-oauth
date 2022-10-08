@@ -7,6 +7,9 @@
 ## Table of Contents
 - [Brief History](#brief-history)
 - [What is the OAuth 2.0 framework](#what-is-the-oauth-20-framework)
+  - [The client-server authentication](#)
+  - [The problem with client-serverauth](#)
+  - [The authorization layer](#)
 - [Common use cases of OAuth 2.0](#)
 - [High-level description of the OAuth 2.0 mechanism](#)
 - [References](#references)
@@ -33,7 +36,7 @@ OAuth 2.0 is an industry standard for delegated authorization, and there are a n
 
 ![Oauth-fundamentals-3](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
 
-## The client-server authentication
+### The client-server authentication
 
 To understand these issues, let’s visit the traditional client-server authentication model by an example:
 
@@ -41,9 +44,17 @@ To understand these issues, let’s visit the traditional client-server authenti
 
 The online-banking requests access restricted to the Facebook server by authenticating with the server using the user’s credentials.
 
-![client-server](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
+![client-server](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/client-server-auth.jpg)
 
+### The problems with client-server auth
 
+Having the online-banking example in mind, to allow users to use their profile image, they would have to share their Facebook credentials with the bank. That means the bank will have to store the users’ Facebook credentials, typically, as clear text.
+
+Despite the security weaknesses inherent in passwords, Facebook’s photos server is also required to support password authentication.
+
+The bank website gains overly broad access to their users’ Facebook accounts, leaving the users without any ability to restrict duration or access scope to a limited subset of resources.
+
+Once a user integrated their Facebook profile image, they cannot revoke bank access to their Facebook account without revoking access to all other third parties. And the only way to do so is by changing their password.
 ## Common use cases of OAuth 2.0
 ## High-level description of the OAuth 2.0 mechanism
 ## References
