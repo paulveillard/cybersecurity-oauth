@@ -8,7 +8,7 @@
 - [Brief History](#brief-history)
 - [What is the OAuth 2.0 framework](#what-is-the-oauth-20-framework)
   - [The client-server authentication](#)
-  - [The problem with client-serverauth](#)
+  - [The problem with client-server auth](#)
   - [The authorization layer](#)
 - [Common use cases of OAuth 2.0](#)
 - [High-level description of the OAuth 2.0 mechanism](#)
