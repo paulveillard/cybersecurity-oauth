@@ -41,7 +41,7 @@ To understand these issues, let’s visit the traditional client-server authenti
 
 The online-banking requests access restricted to the Facebook server by authenticating with the server using the user’s credentials.
 
-
+![client-server](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-fundamentals-3.jpg)
 
 
 ## Common use cases of OAuth 2.0
