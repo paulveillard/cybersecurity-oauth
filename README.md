@@ -7,7 +7,7 @@ An ongoing & curated collection of awesome software best practices and technique
 - As an application developer, you may have heard the term OAuth 2.0 thrown around a lot. OAuth 2.0 has gained wide adoption by web service and software companies around the world, and is integral to the way these companies interact
 and share information. 
 
-#[concepts](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-concepts.jpeg)
+![concepts](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-concepts.jpeg)
 
 ![Intro](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg)
 
