@@ -18,7 +18,7 @@ and share information.
 
 [OAuth 2.0](https://www.couchbase.com/blog/oauth-2-oidc-fundamentals-authentication-authorization/) is an industry standard for “delegated authorization” which is the ability to provide an application or client access to data or features offered by another app or service. OAuth 2.0 focuses on authorization and is not prescriptive about authentication. OpenID Connect (OIDC) adds a standards-based authentication layer on top of OAuth 2.0.
 
-![oauth-openid](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-openid2.png)
+![oauth-openid](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-openid3.JPG)
 
 
 ## Tables of Contents
