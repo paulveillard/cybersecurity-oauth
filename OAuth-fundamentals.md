@@ -126,6 +126,23 @@ An authorization server can be implemented as part of the resource server, or as
 
 ![flow](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg)
 
+#### OAuth protocol flow
+
+Starting with the resource owner, the process of the OAuth require the client app for an authorization grant code. This code uses a temporary credential to represent the resource owner’s delegation to the client. For instance, the user of the online-banking app wants to use their Facebook profile image. They tell the online-banking client app to use their image. The Facebook profile images server uses an API that the online-banking app knows how to process as well as that it needs to use OAuth to do so.
+
+When the access token is expired, the client is notified that it needs a new OAuth access token, it sends the resource owner to the authorization server with a request that indicates that the client is asking to be delegated some piece of authority on the behalf of that resource owner.
+
+The client is identified by an ID and requests specific items such as scopes through query parameters in the URL. The Authorization server can parse the parameters and act accordingly.
+
+Next, the authorization server asks the user to authenticate (if they aren’t yet authenticated). The authentication is never seen by the client application.
+
+Once the user is authenticated, they authorize the client app and the authorization server redirects the user back to the client app with the authorization code (there are different kinds of grant types, for the sake of simplicity, we assume using authorization code as grant type). The authorization code is included in a query parameter. The value of the authorization code is a one-time-use credential, and it represents the result of the user’s authorization decision.
+
+As the client gets the authorization code, it sends it back to the authorization server with a POST request to the token endpoint.
+
+If the request is valid, the authorization server issues an access token and returns it as a response to the client app.
+
+Now the client app can send the request to the protected resource server.
 
 ## References
 
