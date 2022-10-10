@@ -150,6 +150,28 @@ Now the client app can send the request to the protected resource server.
 
 ### The OAuth’s components
 
+Additionally to the roles we’ve seen earlier, the OAuth framework depends on several other mechanisms as follows:
+
+    access token
+    refresh token
+    scopes
+    authorization grant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## References
 
 The following content is based on several resources, among them are the official IETF documentation, the Wikipedia article, and OAuth 2 in Action, a book by Justin Richer and Antonio Sanso.
