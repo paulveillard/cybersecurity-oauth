@@ -14,9 +14,9 @@
 - [Common use cases of OAuth 2.0](#)
   - [Securing distributed systems with Oauth2.0](#)
 - [High-level description of the OAuth 2.0 mechanism](#)
-  - [The Oauth 2.0 Roles](#)
-  - [The Protocol Flow](#)
-  - [The Oauth Components](#)
+  - [The Oauth 2.0 Roles](#the)
+  - [The Protocol Flow](#the-protocol-flow)
+  - [The Oauth Components](#the-oauths-components)
 - [References](#references)
 
 
