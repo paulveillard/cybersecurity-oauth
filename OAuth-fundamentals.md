@@ -67,6 +67,12 @@ Back to our example, the user of the online-banking can share their Facebook pro
 
 
 ## Common use cases of OAuth 2.0
+
+There are many different implementations of OAuth. Although the motivation behind the OAuth protocol creation, was for third-parties integrations, the use of it expanded to many other different areas.
+
+In the Protests-Map application, we implemented “Sign-up with Google” provided by the Firebase Auth library. This service uses an OAuth token provided by Google identity.
+
+
 ## High-level description of the OAuth 2.0 mechanism
 ## References
 
@@ -74,7 +80,7 @@ Back to our example, the user of the online-banking can share their Facebook pro
 ## References
 
 The following content is based on several resources, among them are the official IETF documentation, the Wikipedia article, and OAuth 2 in Action, a book by Justin Richer and Antonio Sanso.
-- [Everybody is Dancing in the OAuth 2.0 Protocol](#https://kessler.tech/security/oauth2-1/)
+- [Everybody is Dancing in the OAuth 2.0 Protocol](https://kessler.tech/security/oauth2-1/)
 
 
 
