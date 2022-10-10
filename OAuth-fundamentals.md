@@ -124,7 +124,7 @@ An authorization server can be implemented as part of the resource server, or as
     The client requests the protected resource from the resource server.And authenticates by presenting the access token.
     The resource server validates the access token.And if valid serves the request.
 
-
+![flow](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-flow-3.jpg)
 
 
 ## References
