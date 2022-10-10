@@ -94,21 +94,26 @@ OAuth is a complex security protocol composing an accurate flow between four dif
 
 ### The OAuth 2.0 roles
 
-    - resource owner. 
+    - resource owner:
     An entity granting access to the protected resources.
     When it’s a person, it is referred to as an end-user.
     
-    - resource server The server hosting the protected resources,
+    - resource server:
+    The server hosting the protected resources,
     capable of accepting and responding to protected resource requests using access tokens.
     
-    - client An application making protected resource requests,
+    - client:
+    An application making protected resource requests,
     on behalf of the resource owner and with its authorization.
     
-    - authorization server The server issuing access tokens to the client,
+    - authorization server:
+    The server issuing access tokens to the client,
     after successfuly authenticating the resource owner and obtaining authorization.
 
 
+The term client does not imply any particular implementation characteristics. Every application that requests a protected resource is a client.
 
+An authorization server can be implemented as part of the resource server, or as a self-contained service. A single authorization server may issue access tokens accepted by multiple resource servers.
 
 
 ## References
