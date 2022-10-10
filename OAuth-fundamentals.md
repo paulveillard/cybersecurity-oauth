@@ -157,7 +157,16 @@ Additionally to the roles we’ve seen earlier, the OAuth framework depends on s
     scopes
     authorization grant
 
+### Access Token
 
+The token is issued by the authorization server, and it is passed through by the client to the protected resources which should validate it. The client should not care for the token content, its job is to carry the token from the authorization server to the protected resources. The client is completely oblivious to the token itself.
+
+Access tokens have a short lifetime, typically something between minutes and hours. An access token can expand its lifetime by a refresh token.
+
+
+### Refresh Token
+
+Similar to the access token, the refresh token is issued by the authorization server, but it’s not validated by the protected resources. The validation of an access token is done by the authorization server before it issues a new access token. The idea is that when an access token is expired and rejected by the protected resource, the client can ask for a new access token without interrupting the resource owner. 
 
 
 
