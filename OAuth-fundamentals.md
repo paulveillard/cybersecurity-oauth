@@ -115,6 +115,17 @@ The term client does not imply any particular implementation characteristics. Ev
 
 An authorization server can be implemented as part of the resource server, or as a self-contained service. A single authorization server may issue access tokens accepted by multiple resource servers.
 
+### The protocol flow
+
+    First, the client requests authorization from the resource owner.This request can be made directly to the resource owner, or preferably via the authorization server as an intermediary.
+    The client receives an authorization grant.Which is a credential representing the resource owner’s authorization, using one of the grant types.
+    The client requests an access token.By authenticating with authorization sever and presenting the authorization grant.
+    The authorization server authenticates the client and validates the authorization grant.If valid, issues an access token.
+    The client requests the protected resource from the resource server.And authenticates by presenting the access token.
+    The resource server validates the access token.And if valid serves the request.
+
+
+
 
 ## References
 
