@@ -72,6 +72,20 @@ There are many different implementations of OAuth. Although the motivation behin
 
 In the Protests-Map application, we implemented “Sign-up with Google” provided by the Firebase Auth library. This service uses an OAuth token provided by Google identity.
 
+### Securing distributed systems with OAuth2
+
+Most technology startups founded in the past decade are building and running their software systems in the cloud while implementing a flavour of a distributed system architecture.
+
+One of the problems that come up with the rise of distributed systems, is API’s authorization. Back to our online-banking example, let’s say the bank has the following services on their system:
+
+    accounts
+    transactions
+    credits
+    savings
+
+Each of the services runs as an isolated deployable unit, with its own database and mid-level API server. Now, let’s say some other services are only accessible for specific kinds of users, such as businesses accounts, or premium customers. How should we make sure that resources are protected?
+
+Here is where OAuth come to the frame.
 
 ## High-level description of the OAuth 2.0 mechanism
 ## References
