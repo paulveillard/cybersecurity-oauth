@@ -88,7 +88,23 @@ Each of the services runs as an isolated deployable unit, with its own database 
 Here is where OAuth come to the frame.
 
 ## High-level description of the OAuth 2.0 mechanism
-## References
+
+OAuth is a complex security protocol composing an accurate flow between four different roles and several components and steps to send information to each other. The two major steps of OAuth transactions are: issuing and using/validating tokens. Besides issuing and validating tokens there are other two steps, redirecting to URIs and refreshing tokens. Following are the main components involved in the OAuth 2.0 flow.
+
+
+The OAuth 2.0 roles
+
+    resource owner An entity granting access to the protected resources.
+    When it’s a person, it is referred to as an end-user.
+    resource server The server hosting the protected resources,
+    capable of accepting and responding to protected resource requests using access tokens.
+    client An application making protected resource requests,
+    on behalf of the resource owner and with its authorization.
+    authorization server The server issuing access tokens to the client,
+    after successfuly authenticating the resource owner and obtaining authorization.
+
+
+
 
 
 ## References
