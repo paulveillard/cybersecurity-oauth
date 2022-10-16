@@ -169,14 +169,16 @@ Access tokens have a short lifetime, typically something between minutes and hou
 Similar to the access token, the refresh token is issued by the authorization server, but it’s not validated by the protected resources. The validation of an access token is done by the authorization server before it issues a new access token. The idea is that when an access token is expired and rejected by the protected resource, the client can ask for a new access token without interrupting the resource owner. 
 
 
+![img](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/refresh-token.jpg)
+
+### Scope
+
+OAuth scope represents a set of access rights at a protected resource. Scopes are represented by strings and they cannot contain space values. By choosing the scopes, the resource owner can restrict the client to access specific resources and block the client from other resources. 
 
 
+### Authorization Grant
 
-
-
-
-
-
+An authorization grant is a credential representing the resource owner’s authorization (to access its protected resources) used by the client to obtain an access token. The OAuth specification defines four grant types: authorization code, implicit, resource owner password credentials, and client credentials – as well as an extensibility mechanism for defining additional type
 
 
 
