@@ -3,7 +3,7 @@
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about OAuth 2.0 and OpenID Connect in Cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Introduction
+## `Introduction`
 - As an application developer, you may have heard the term OAuth 2.0 thrown around a lot. OAuth 2.0 has gained wide adoption by web service and software companies around the world, and is integral to the way these companies interact
 and share information. 
 
@@ -21,7 +21,7 @@ and share information.
 ![oauth-openid](https://github.com/paulveillard/cybersecurity-oauth/blob/main/img/oauth-openid3.JPG)
 
 
-## Tables of Contents
+## `Tables of Contents`
 - [Introduction](#introduction)
 - [Cloud Solutions](#cloud-solutions)
    - [Amazon Web Services (AWS)](#amazon-web-services-aws)
@@ -170,7 +170,7 @@ and share information.
 * [XACML](https://en.wikipedia.org/wiki/XACML) - XML-based access control markup language
 * [angular-permissions](https://github.com/Narzerus/angular-permission) authorization for AngularJS
 
-## Access management
+## `Access management`
 * [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 * [IdentityServer](https://identityserver.io/) - .NET based IAM server
 * [ORY](https://www.ory.sh/) - Open Source Identity Infrastructure and Services (Go based)
