@@ -147,13 +147,13 @@ and share information.
 * [理解OAuth 2.0 by 阮一峰](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 * [帮你深入理解OAuth2.0协议](http://blog.csdn.net/seccloud/article/details/8192707)
 
-### Book
+### `Book`
 * [OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)
 * [Getting Started with OAuth 2.0 - Programming Clients for Secure Web API Authorization and Authentication](http://shop.oreilly.com/product/0636920021810.do)
 * [Identity and Data Security for Web Development - Best Practices](http://shop.oreilly.com/product/0636920044376.do)
 * [OAuth 2.0 – Getting Started in Web-API Security](https://api-university.com/books/oauth-2-0-book/)
 
-### Playground
+### `Playground`
 * [OAUTH.TOOLS](https://oauth.tools/)
 * [Google OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
 * [RFC6749](https://tools.ietf.org/html/rfc6749) - RFC with OAuth2 definition
@@ -178,11 +178,11 @@ and share information.
 * [OpenAM](https://forgerock.github.io/openam-community-edition/) - (discontinued), successor of OpenSSO
 * [WSO2 Identity Server](http://wso2.com/products/identity-server/) - also has SSO, authZ, ...
 
-## Tools
+## `Tools`
 * [Step CLI](https://smallstep.com/cli/) - A zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc. 
 * [JWT DEBUGGER](https://jwt.ssotools.com/)  - A simple JWT decoder tool, that can help to verify the JWT and with the help of signature.
 
-## Other aggregators
+## `Other aggregators`
 * [awesome-keycloak](https://github.com/thomasdarimont/awesome-keycloak) - A curated list of Keycloak related resources
 * [casbin/awesome-auth](https://github.com/casbin/awesome-auth) - other auth list
 * [OAuth code libraries](https://oauth.net/code/)
