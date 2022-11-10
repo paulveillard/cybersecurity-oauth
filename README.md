@@ -39,24 +39,24 @@ and share information.
 	- [OAuth](#oauth)
 	
 
-## Cloud solutions
+## `Cloud solutions`
 
-### Amazon Web Services (AWS)
+### `Amazon Web Services (AWS)`
 * [AWS IAM](https://aws.amazon.com/iam/) - Identity and Access Management for AWS
 * [AWS SSO](https://aws.amazon.com/single-sign-on/) - Centrally manage single sign-on (SSO) access to multiple AWS accounts
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - SSO for business applications
 * [AWS Directory Service](https://aws.amazon.com/directoryservice/) - AD in the AWS Cloud
 * [AWS STS](https://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html) - AWS Security Token Service for temporary IAM tokens
 
-### Google Cloud Platform (GCP)
+### `Google Cloud Platform (GCP)`
 * [Identity and authentication, the Google Cloud way](https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way) - Overview of Google approach to identity and access management
 
-### Microsoft Azure
+### `Microsoft Azure`
 * [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) - Evolution of the Azure Active Directory
 
-## Authentication
+## `Authentication`
 
-### SSO
+### `SSO`
 * [Single sign-on](https://en.wikipedia.org/wiki/Single_sign-on) - wiki page about SSO
 * [Central Authentication Service (CAS)](https://github.com/apereo/cas) - Open Source Enterprise Single Sign On
 * [Okta](https://www.okta.com/) - Identity and Access Management as a service; provides broad integrations
@@ -68,23 +68,23 @@ and share information.
 * [buzzfeed/sso](https://github.com/buzzfeed/sso) - A single sign-on solution for securing internal services (Go based)
 * [cidaas](https://www.cidaas.com) - Cloud Identity & Access Management (Identity and Access Management as a service)
 
-### SAML
+### `SAML`
 * [SAML](https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language) - Security Assertion Markup Language wiki page
 * [Spring Security SAML](http://projects.spring.io/spring-security-saml/) - SAML implementation for Spring
 * [SAMLTest](https://samltest.id/) SAML Testing service
 * [SAMLkit](https://samlkit.com/) Development/testing entity
 
-### Two-factor authentication
+### `Two-factor authentication`
 * [U2F and UAF spec](https://fidoalliance.org/specifications/overview/) - 2FA specifications
 * [Two Factor Auth](https://twofactorauth.org/) - List of websites with 2FA info
 
-## Passwordless authentication
+## `Passwordless authentication`
 * [MojoAuth](https://mojoauth.com/) - Email and WebAuthN Authentication
 * [Sawolabs](https://sawolabs.com/) - Authentication without OTPs and Passwords
 
-## Authorization
+## `Authorization`
 
-### OAuth
+### `OAuth`
 #### Site
 * [OAuth on Wikipedia](https://en.wikipedia.org/wiki/OAuth)
 * [OAuth.net by Okta](https://oauth.net/)
@@ -130,7 +130,7 @@ and share information.
 * [OAuth 2.0 for Browser-Based Apps(draft-ietf-oauth-browser-based-apps-08)](https://tools.ietf.org/html/draft-ietf-oauth-browser-based-apps-08)
 * [The OAuth 2.1 Authorization Framework(draft-ietf-oauth-v2-1-04)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-04)
 
-### Article
+### `Article`
 * OAuth 2.0 系列文 by [Yucheng Chuang](https://twitter.com/yorkxin)
     * [(1) 世界觀](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction/)
     * [(2) Client 的註冊與認證](http://blog.yorkxin.org/posts/2013/09/30/oauth2-2-cilent-registration/)
@@ -189,6 +189,7 @@ and share information.
 * [OIDC code libraries](https://openid.net/developers/libraries/)
 
 
+## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
